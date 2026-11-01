@@ -1,0 +1,2 @@
+/Users/ahmad/StudioProjects/mood_journal/android/app/.cxx/Debug/1h5y3n1c/armeabi-v7a/CMakeFiles/edit_cache.dir
+/Users/ahmad/StudioProjects/mood_journal/android/app/.cxx/Debug/1h5y3n1c/armeabi-v7a/CMakeFiles/rebuild_cache.dir
