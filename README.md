@@ -1,16 +1,14 @@
-# mood_journal
+# Mood Journal
 
-A new Flutter project.
+An offline-first Flutter journaling app for recording and reviewing your daily mood.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- Record mood entries with a journal note
+- Works without an internet connection
+- Browse entries by date
+- Navigate past entries to see mood history
 
-A few resources to get you started if this is your first Flutter project:
+## Tech Stack
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Flutter, Dart, Hive (local storage)
